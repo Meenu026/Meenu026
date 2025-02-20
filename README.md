@@ -1,5 +1,4 @@
 ![download](https://github.com/geohot/tinygrad/assets/137403538/82f3c7fc-33e0-42e9-978d-6b10ba5d183a)
-![meenu 22](https://github.com/geohot/tinygrad/assets/137403538/989e2c6b-3066-4375-927f-002c272c1607)
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
