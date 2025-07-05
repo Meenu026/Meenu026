@@ -52,7 +52,7 @@ I’m a final-year B.Tech Computer Science student who loves data, design, and d
 
 📬 **Let’s Connect:**
 
-- 📧 Email: meenakshi26may2005@gmail.com  
+- 📧 Email: meenakshivaishnav265@gmail.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/26meenu/]  
 - 🧑‍💻 GitHub: [https://github.com/Meenu026]
 
